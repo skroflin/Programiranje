@@ -1,0 +1,16 @@
+What is parallax scrolling?
+
+Parallax scrolling is a computer graphics technique used by
+web designers to create a faux-3D effect.
+As users scroll down a webpage, different layers of content or backgrounds
+move at a different speed and this creates an optical illusion.
+Using parallax scrolling has itself become a trend in the web design
+world.
+
+How do I make a parallax website design?
+
+Diving into pure CSS to create it. Using container elements and
+adding a background image to several containers.
+You should then proceed to use the "background-attachment:fixed" CSS
+property to create the actual parallax effect.
+Another approach most commonly used; website builders to add parllax scrolling.
